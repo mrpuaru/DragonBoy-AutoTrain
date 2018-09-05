@@ -1,4 +1,5 @@
 # DragonBoy-AutoTrain
+* Auto Login
 * Chức năng giống tự động luyện tập nhưng ko có thu hoạch đậu.
 * Tự ăn đậu khi HP hoặc MP dưới 20%
 * Auto nhặt.
